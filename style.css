@@ -4,13 +4,21 @@
 }
 
 .error {
-  color: red;
+  color: #eeeeee;
 }
 
 .success {
-  color: green;
+  color: rgba(120, 250, 190, 0.7);
 }
 
 #test {
   color: maroon;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.yellow {
+  background-color: yellow;
 }
