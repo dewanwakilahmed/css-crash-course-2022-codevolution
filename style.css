@@ -1,7 +1,7 @@
-* {
+/* * {
   margin: 0;
   padding: 0;
-}
+} */
 
 .error {
   color: #eeeeee;
@@ -21,4 +21,12 @@
 
 .yellow {
   background-color: yellow;
+}
+
+.font-styles {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 30px;
 }
