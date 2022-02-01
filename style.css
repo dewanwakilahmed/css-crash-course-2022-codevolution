@@ -17,6 +17,10 @@
 
 .orange {
   background-color: orange;
+  text-align: right;
+  line-height: 2;
+  letter-spacing: 4px;
+  word-spacing: 20px;
 }
 
 .yellow {
