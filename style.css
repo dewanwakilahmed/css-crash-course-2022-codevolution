@@ -101,3 +101,31 @@ td {
   border: 1px solid blue;
   display: none;
 }
+
+.position-1 {
+  border: 1px solid red;
+  /* position: relative; */
+  position: sticky;
+  top: 50px;
+  left: 50px;
+}
+
+.position-2 {
+  border: 1px solid blue;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
+.container {
+  position: relative;
+  width: 200px;
+  height: 2000px;
+  border: 1px solid black;
+}
+
+.position-3 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
